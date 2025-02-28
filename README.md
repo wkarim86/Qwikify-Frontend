@@ -1,4 +1,19 @@
-# React + TypeScript + Vite
+# Qwikify Care Notes Offline First Application
+
+## Architecture
+### UI Layer ###
+TailwindCSS
+
+### API Layer ###
+Redux Toolkit
+
+### Offline Storage ###
+IndexedDB -> LocalForage react wrapper library
+
+### Frontend ###
+Redux for statemanagement
+
+
 
 # How to run
 ```npm install```
